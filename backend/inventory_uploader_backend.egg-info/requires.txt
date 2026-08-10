@@ -1,0 +1,15 @@
+alembic<2,>=1.16
+fastapi<1,>=0.116
+openai<3,>=1.99
+opencv-python-headless<5,>=4.12
+openpyxl<4,>=3.1.5
+pillow<13,>=11.3
+pydantic-settings<3,>=2.10
+python-multipart<1,>=0.0.20
+rapidfuzz<4,>=3.13
+sqlalchemy<3,>=2.0.41
+uvicorn[standard]<1,>=0.35
+
+[dev]
+httpx<1,>=0.28
+pytest<9,>=8.4

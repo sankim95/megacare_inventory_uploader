@@ -1,0 +1,38 @@
+{
+  "outputPath": "/Users/kimsangwoo/Desktop/workspace/inventory_uploader/outputs/019fe534-cabf-7453-bf7e-73de0f278677/상품리스트_2026-08-07_재고변화_또는_기간매출있음.xlsx",
+  "julyRows": 8575,
+  "augustRows": 8562,
+  "outputRows": 2460,
+  "removedRows": 6102,
+  "period": {
+    "start": "2026-07-18",
+    "end": "2026-08-07",
+    "basis": "최근매출일"
+  },
+  "comparison": {
+    "unchanged": 6145,
+    "unchangedZeroStock": 5737,
+    "unchangedNonZeroStock": 408,
+    "unchangedWithPeriodSale": 43,
+    "unchangedWithPeriodSaleZeroStock": 3,
+    "unchangedWithPeriodSaleNonZeroStock": 40,
+    "unchangedWithPeriodSaleAndPurchase": 0,
+    "unchangedWithPeriodSaleWithoutPeriodPurchase": 43,
+    "changed": 2315,
+    "stockIncreased": 722,
+    "stockDecreased": 1593,
+    "newInAugust": 102,
+    "periodSaleTotal": 2397,
+    "periodSaleOnChanged": 2295,
+    "periodSaleOnNew": 59,
+    "renamed": 48,
+    "totalAugust": 8562,
+    "kept": 2460,
+    "removedAsDormant": 6102
+  },
+  "dataAddress": "A1:AZ2461",
+  "nativeTableCount": 0,
+  "sourceFormulaInspection": "{\"kind\":\"notice\",\"message\":\"No records matched the requested kinds.\"}",
+  "keyRange": "{\"kind\":\"table\",\"sheet\":\"Sheet\",\"address\":\"A1:T15\",\"rows\":15,\"cols\":20,\"values\":[[\"상품코드\",\"상품명\",\"i\",\"상품유형\",\"원산지\",\"규격\",\"현재고\",\"매입단가\",\"판매단가\",\"이익률\",\"출고단가\",\"출고이익률\",\"판매상태\",\"APP\\n등록상품\",\"이미지\\n등록여부\",\"프리셋 \\n등록상품\",\"프리셋 그룹\",\"행사명\",\"행사우선순위\",\"행사매입가\"],[\"00020\",\"조제\",\"과직\",\"일반\",null,\"ea\",-47,0,0,0,0,0,\"판매중\",0,0,1,\"무바코드\",null,null,null],[\"0100707387023645\",\"R1547 스테리스트립(12mm*100mm)\",\"과직\",\"일반\",null,\"ea\",-29,1315,3000,56.17,0,0,\"판매중\",0,0,1,\"반창고\",null,null,null],[\"0100707387023676\",\"R1541 스테리스트립(6mm*75mm)\",\"과직\",\"일반\",null,\"ea\",-4,850,2000,57.5,0,0,\"판매중\",0,0,1,\"반창고\",null,null,null],[\"0100707387023683\",\"R1546 스테리스트립(6mm*100mm)\",\"과직\",\"일반\",null,\"ea\",-9,1315,2500,47.4,0,0,\"판매중\",0,0,1,\"반창고\",null,null,null],[\"01040649510245801728\",\"넥스가드스펙트라 (30~60kg)\",\"과직\",\"일반\",null,null,-1,80000,92000,13.04,0,0,\"판매중\",0,0,0,null,null,null,null],[\"0106970280851064\",\"브라운체온계(IRT6030)\",\"과직\",\"일반\",null,\"ea\",-9,71100,75000,5.2,0,0,\"판매중\",0,0,0,null,null,null,null],[\"0108800026200031\",\"노즈스위퍼 용기\",\"과직\",\"일반\",null,\"ea\",27,5400,7500,28,0,0,\"판매중\",0,0,0,null,null,null,null],[\"0108800026200048\",\"노즈스위퍼 코세정분말\",\"과직\",\"일반\",null,\"ea\",28,3400,5000,32,0,0,\"판매중\",0,0,0,null,null,null,null],[\"01088000480077931025\",\"하이맘밴드 에이지썬프로텍션\",\"과직\",\"일반\",null,null,-4,0,10000,100,0,0,\"판매중\",0,0,0,null,null,null,null],[\"01088002438201422601\",\"무통사혈기\",\"과직\",\"일반\",null,null,-9,2679,5000,46.42,0,0,\"판매중\",0,0,0,null,null,null,null],[\"0108800516000417\",\"드리클로액20g\",\"과직\",\"일반\",null,\"ea\",73,9820,11000,10.73,0,0,\"판매중\",0,0,0,null,null,null,null],[\"0108800742000212\",\"부스코판플러스10T\",\"과직\",\"일반\",null,\"ea\",100,2706,3500,22.69,0,0,\"판매중\",0,0,0,null,null,null,null],[\"0108800742000229\",\"부스코판 플러스 20정\",\"과직\",\"일반\",null,null,-1,5830,6500,10.31,0,0,\"판매중\",0,0,0,null,null,null,null],[\"0108800742000519\",\"뮤코펙트 10정\",\"과직\",\"일반\",null,\"ea\",20,2618,3000,12.73,0,0,\"판매중\",0,0,0,null,null,null,null]]}",
+  "formulaErrors": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+}

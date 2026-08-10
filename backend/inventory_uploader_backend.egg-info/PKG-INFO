@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: inventory-uploader-backend
+Version: 0.1.0
+Summary: 약국 거래명세서 입고 반영 도우미 백엔드
+Requires-Python: <3.13,>=3.12
+Requires-Dist: alembic<2,>=1.16
+Requires-Dist: fastapi<1,>=0.116
+Requires-Dist: openai<3,>=1.99
+Requires-Dist: opencv-python-headless<5,>=4.12
+Requires-Dist: openpyxl<4,>=3.1.5
+Requires-Dist: pillow<13,>=11.3
+Requires-Dist: pydantic-settings<3,>=2.10
+Requires-Dist: python-multipart<1,>=0.0.20
+Requires-Dist: rapidfuzz<4,>=3.13
+Requires-Dist: sqlalchemy<3,>=2.0.41
+Requires-Dist: uvicorn[standard]<1,>=0.35
+Provides-Extra: dev
+Requires-Dist: httpx<1,>=0.28; extra == "dev"
+Requires-Dist: pytest<9,>=8.4; extra == "dev"
